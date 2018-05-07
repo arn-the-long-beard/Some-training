@@ -1,0 +1,5 @@
+/home/arn/projects/repos/Tala-Fisk
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=Tala-Fisk
+--content-root=/home/arn/projects/repos/Tala-Fisk
+--file=

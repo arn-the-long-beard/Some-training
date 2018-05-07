@@ -1,0 +1,11 @@
+/home/arn/projects/repos/Tala-Fisk/obj/Debug/netcoreapp2.0/Tala-Fisk.csproj.CoreCompileInputs.cache
+/home/arn/projects/repos/Tala-Fisk/obj/Debug/netcoreapp2.0/Tala-Fisk.AssemblyInfoInputs.cache
+/home/arn/projects/repos/Tala-Fisk/obj/Debug/netcoreapp2.0/Tala-Fisk.AssemblyInfo.cs
+/home/arn/projects/repos/Tala-Fisk/bin/Debug/netcoreapp2.0/Tala-Fisk.deps.json
+/home/arn/projects/repos/Tala-Fisk/bin/Debug/netcoreapp2.0/Tala-Fisk.runtimeconfig.json
+/home/arn/projects/repos/Tala-Fisk/bin/Debug/netcoreapp2.0/Tala-Fisk.runtimeconfig.dev.json
+/home/arn/projects/repos/Tala-Fisk/bin/Debug/netcoreapp2.0/Tala-Fisk.dll
+/home/arn/projects/repos/Tala-Fisk/bin/Debug/netcoreapp2.0/Tala-Fisk.pdb
+/home/arn/projects/repos/Tala-Fisk/obj/Debug/netcoreapp2.0/Tala-Fisk.dll
+/home/arn/projects/repos/Tala-Fisk/obj/Debug/netcoreapp2.0/Tala-Fisk.pdb
+/home/arn/projects/repos/Tala-Fisk/bin/Debug/netcoreapp2.0/Dockerfile
